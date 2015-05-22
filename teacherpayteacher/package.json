@@ -1,0 +1,15 @@
+{
+  "name": "teacherpayteacher",
+  "version": "0.0.1",
+  "description": "scrapper for teacherpayteacher",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh Joshi <iyogeshjoshi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "0.0.6",
+    "async": "^1.0.0"
+  }
+}
