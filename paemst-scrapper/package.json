@@ -1,0 +1,15 @@
+{
+  "name": "paemst-scrapper",
+  "version": "0.0.1",
+  "description": "paemist site data scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh Joshi <iyogeshjoshi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "csv": "^0.4.2"
+  }
+}

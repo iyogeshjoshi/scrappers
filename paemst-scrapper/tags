@@ -1,0 +1,3 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+cheerio	/home/iyogeshjoshi/Documents/fs-v2/paemst-scrapper/index.js	/^var cheerio = require('cheerio');$/;"	v	language:JavaScript
+csv	/home/iyogeshjoshi/Documents/fs-v2/paemst-scrapper/index.js	/^var csv = require('csv');$/;"	v	language:JavaScript
